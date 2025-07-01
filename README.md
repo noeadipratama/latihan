@@ -89,7 +89,7 @@ app/
 | ----------------------- | ---------------------------------------------------------- |
 | Jalankan aplikasi       | Splash screen muncul 2 detik                               |
 | Belum login             | Muncul halaman login                                       |
-| Login: `admin` / `1234` | Masuk ke halaman utama                                     |
+| Login: `noe` / `noe45` | Masuk ke halaman utama                                     |
 | Buka button setting     | Ubah tema dan notifikasi                                   |
 | Klik save & back        | Tema & status notifikasi diperbarui                        |
 | Tekan Logout            | Kembali ke halaman login(hapus value di shared preference) |
