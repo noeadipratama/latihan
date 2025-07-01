@@ -1,0 +1,19 @@
+<resources>
+    <style name="Theme.UserPreferenceManager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="colorOnError">@color/colorOnError</item>
+    </style>
+
+    <!-- Rounded Button ONLY for corner radius -->
+    <style name="Widget.App.RoundedButton" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">50dp</item>
+    </style>
+</resources>
